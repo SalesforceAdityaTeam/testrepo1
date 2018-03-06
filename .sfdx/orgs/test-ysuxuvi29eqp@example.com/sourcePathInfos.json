@@ -2,14 +2,14 @@
     [
         "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520376027687,
             "changeTime": 1520376027687,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520376027687,
             "changeTime": 1520376027687,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,28 @@
     [
         "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1520376027687,
-            "changeTime": 1520376027687,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1520377396899,
+            "changeTime": 1520377396899,
+            "contentHash": "d8445d5a1ae2437f0102269ffaf72c5b0ab52e98",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520376027687,
             "changeTime": 1520376027687,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,16 +61,68 @@
     [
         "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520376769356,
             "changeTime": 1520376769356,
             "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ContactTrigger.cls",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ContactTrigger.cls",
+            "isDirectory": false,
+            "size": 82,
+            "modifiedTime": 1520377344439,
+            "changeTime": 1520377344439,
+            "contentHash": "686c8db693cfe3633217c9e9e7321e80d5e2a23c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ContactTrigger.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ContactTrigger.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1520377344447,
+            "changeTime": 1520377344447,
+            "contentHash": "a0ad9e669185844285deaab6fd4307a894815fcc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ConTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ConTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 114,
+            "modifiedTime": 1520378336148,
+            "changeTime": 1520378336148,
+            "contentHash": "e4850f3849d10ecb4c42a7184ee13cfbe0f3e9f5"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ConTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\ConTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1520377396905,
+            "changeTime": 1520377396905,
+            "contentHash": "351c7d174fc5c4f32c31b5c35d443207fa205c17",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
