@@ -1,0 +1,77 @@
+[
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520376027687,
+            "changeTime": 1520376027687,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520376027687,
+            "changeTime": 1520376027687,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520376027687,
+            "changeTime": 1520376027687,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520376027687,
+            "changeTime": 1520376027687,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\User\\Documents\\Salesforce DX project\\gitlocaldemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520376769356,
+            "changeTime": 1520376769356,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
